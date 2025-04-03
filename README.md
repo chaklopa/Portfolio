@@ -79,6 +79,18 @@ Experienced Product Manager with expertise in strategic planning, operational im
 - **Technical Skills**: Python, SQL, Tableau, Advanced Excel
 - **Professional Skills**: Product Management, Strategic Planning, Cross-Functional Collaboration, Program Management, Stakeholder Engagement, Vendor Management, Process Improvement, Project Finance, Forecasting
 
+## Skills
+
+- <img src="icons/python_icon.png" alt="Python Icon" width="20" style="vertical-align:middle;"> **Python**
+- <img src="icons/sql_icon.png" alt="SQL Icon" width="20" style="vertical-align:middle;"> **SQL**
+- <img src="icons/tableau_icon.png" alt="Tableau Icon" width="20" style="vertical-align:middle;"> **Tableau**
+- <img src="icons/advanced_excel_icon.png" alt="Advanced Excel Icon" width="20" style="vertical-align:middle;"> **Advanced Excel**
+- <img src="icons/product_management_icon.png" alt="Product Management Icon" width="20" style="vertical-align:middle;"> **Product Management**
+- <img src="icons/strategic_planning_icon.png" alt="Strategic Planning Icon" width="20" style="vertical-align:middle;"> **Strategic Planning**
+- <img src="icons/program_management_icon.png" alt="Program Management Icon" width="20" style="vertical-align:middle;"> **Program Management**
+- <img src="icons/cross_functional_icon.png" alt="Cross-Functional Collaboration Icon" width="20" style="vertical-align:middle;"> **Cross-Functional Collaboration**
+
+
 ---
 
 ## Certifications
