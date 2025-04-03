@@ -14,6 +14,7 @@ Experienced Product Manager with expertise in strategic planning, operational im
 ## Projects
 
 ### 1. Revenue Growth through Strategic Pricing and Sales Optimization *(Cuemath)*
+![Strategic Pricing Dashboard](Cuemath(2).png)
 - **Role**: Led strategic planning, statistical analysis, pricing and sales strategy redesign across 200+ partner centers.
 - **Outcomes**:
   - 10% revenue increase.
@@ -21,6 +22,7 @@ Experienced Product Manager with expertise in strategic planning, operational im
   - Enhanced customer retention by 5%.
 
 ### 2. Digitization and Operational Streamlining for State Universities *(Ministry of Education, Govt. of India)*
+![Digitization Dashboard](MOE.png)
 - **Role**: Led digitization initiatives and implemented monitoring mechanisms across state universities.
 - **Outcomes**:
   - Reduced project completion times by 7%.
@@ -28,18 +30,12 @@ Experienced Product Manager with expertise in strategic planning, operational im
   - Improved inventory management saving additional $12M.
 
 ### 3. Improving Student Performance through Data-Driven Instructional Strategies *(Teach For India)*
+![Educational Analytics Dashboard](TFI.png)
 - **Role**: Developed instructional content and managed educational initiatives.
 - **Outcomes**:
   - 50% increase in student performance.
   - Successful targeted literacy programs.
   - 100% on-time completion of educational programs.
-
-![Project 1 - Strategic Pricing]Cuemath(2).png)
-
-![Project 2 - Digitization and Efficiency]MOE.png)
-
-![Project 3 - Data-Driven Education]TFI.png)
-
 ---
 
 ## Professional Experience
