@@ -23,7 +23,7 @@ Experienced Product Manager with expertise in strategic planning, operational im
 
 ### 2. Digitization and Operational Streamlining for State Universities *(Ministry of Education, Govt. of India)*
 ![Digitization Dashboard](MOE.png)
-- **Role**: Led digitization initiatives and implemented monitoring mechanisms across state universities.
+- **Role**: Led digitization initiatives and implemented monitoring mechanisms across State Universities.
 - **Outcomes**:
   - Reduced project completion times by 7%.
   - Cost savings of $5M from optimized procurement.
