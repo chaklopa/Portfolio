@@ -14,7 +14,7 @@ Experienced Product Manager with expertise in strategic planning, operational im
 ## Projects
 
 ### 1. Revenue Growth through Strategic Pricing and Sales Optimization *(Cuemath)*
-![Strategic Pricing Dashboard](Cuemath(2).png)
+![Strategic Pricing Dashboard](CueM.png)
 - **Role**: Led strategic planning, statistical analysis, pricing and sales strategy redesign across 200+ partner centers.
 - **Outcomes**:
   - 10% revenue increase.
