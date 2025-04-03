@@ -98,6 +98,15 @@ Experienced Product Manager with expertise in strategic planning, operational im
 - AWS Certified Cloud Practitioner Foundational
 - LinkedIn Learning: Project Management Foundations, Generative AI, Cybersecurity, Data Analysis
 
+## Certifications
+
+- <img src="icons/aws_icon.png" alt="AWS Certified Cloud Practitioner Icon" width="20" style="vertical-align:middle;"> **AWS Certified Cloud Practitioner**
+- <img src="icons/pm_icon.png" alt="Project Management Foundations Icon" width="20" style="vertical-align:middle;"> **Project Management Foundations**
+- <img src="icons/ai_icon.png" alt="Generative AI Icon" width="20" style="vertical-align:middle;"> **Generative AI**
+- <img src="icons/cybersecurity_icon.png" alt="Cybersecurity Icon" width="20" style="vertical-align:middle;"> **Cybersecurity**
+- <img src="icons/data_analysis_icon.png" alt="Data Analysis Icon" width="20" style="vertical-align:middle;"> **Data Analysis**
+
+
 ---
 
 ## Contact Information
