@@ -33,13 +33,12 @@ Experienced Product Manager with expertise in strategic planning, operational im
   - 50% increase in student performance.
   - Successful targeted literacy programs.
   - 100% on-time completion of educational programs.
-![Project 1 - Strategic Pricing](<Cuemath(2)>.png)
 
-![Project 2 - Digitization and Efficiency](<MOE>.png)
+![Project 1 - Strategic Pricing]Cuemath(2).png)
 
-![Project 3 - Data-Driven Education](<TFI>.png)
+![Project 2 - Digitization and Efficiency]MOE.png)
 
-![Skills Infographic](<image-file-name>.png)
+![Project 3 - Data-Driven Education]TFI.png)
 
 ---
 
