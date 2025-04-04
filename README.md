@@ -15,7 +15,7 @@ Experienced Product Manager specializing in strategic planning, operational impr
 ## Skills
 
 ### Technical
-- Python
+- Python - <img src="Python.png" alt="Python Icon" width="20" style="vertical-align:middle;"> **Python**
 - SQL
 - Tableau
 - Advanced Excel (VLOOKUP, Pivot Tables)
