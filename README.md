@@ -15,16 +15,16 @@ Experienced Product Manager specializing in strategic planning, operational impr
 ## Skills
 
 ### Technical
-- Python - <img src="Python.png" alt="Python Icon" width="20" style="vertical-align:middle;"> **Python**
-- SQL
-- Tableau
-- Advanced Excel (VLOOKUP, Pivot Tables)
+- Python  <img src="Python.png" alt="Python Icon" width="20" style="vertical-align:middle;"> 
+- SQL <img src="SQL.png" alt="SQL Icon" width="20" style="vertical-align:middle;">
+- Tableau <img src="Tableau.png" alt="Tableau Icon" width="20" style="vertical-align:middle;">
+- Advanced Excel (VLOOKUP, Pivot Tables) <img src="Advexcel.png" alt="Advexcel Icon" width="20" style="vertical-align:middle;">
 
 ### Professional
-- Product Management
-- Strategic Planning
-- Cross-Functional Collaboration
-- Program Management & Operations
+- Product Management <img src="PRODM.png" alt="Product Management Icon" width="20" style="vertical-align:middle;">
+- Strategic Planning <img src="strategic-plan.png" alt="Strategic Planning Icon" width="20" style="vertical-align:middle;">
+- Cross-Functional Collaboration <img src="CrossFunctional.png" alt="Cross Functional Collaboration Icon" width="20" style="vertical-align:middle;">
+- Program Management & Operations <img src="program-manager.png" alt="Program management Icon" width="20" style="vertical-align:middle;">
 - Stakeholder Engagement
 - Vendor Management
 - Process Improvement
@@ -117,10 +117,8 @@ Experienced Product Manager specializing in strategic planning, operational impr
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner Foundational
-- LinkedIn Learning: Project Management Foundations
-- LinkedIn Learning: Generative AI
-- LinkedIn Learning: Cybersecurity
-- LinkedIn Learning: Data Analysis
+- AWS Certified Cloud Practitioner Foundational <img src="awscert.png" alt="AWS Cloud Icon" width="20" style="vertical-align:middle;">
+- LinkedIn Learning: Project Management Foundations, Generative AI, Cybersecurity, Data Analysis
+- <img src="linedIn.png" alt="LinedIn Icon" width="40" style="vertical-align:middle;">
 
 ---
