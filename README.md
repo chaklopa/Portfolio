@@ -48,6 +48,7 @@ Experienced Product Manager specializing in strategic planning, operational impr
 - Enhanced customer retention by 5% through tailored offerings.
 
 *Visuals: Data dashboards, product lifecycle flows, revenue growth graphs.*
+![Strategic Pricing Dashboard](CueM.png)
 
 ---
 
@@ -64,6 +65,7 @@ Experienced Product Manager specializing in strategic planning, operational impr
 - Improved inventory management, increasing spare availability by 15% and saving $12M.
 
 *Visuals: Digitized workflows, operational dashboards, inventory heatmaps.*
+![Digitization Dashboard](MOE.png)
 
 ---
 
@@ -80,6 +82,7 @@ Experienced Product Manager specializing in strategic planning, operational impr
 - Ensured 100% on-time completion of educational initiatives.
 
 *Visuals: Performance graphs, literacy frameworks, instructional content examples.*
+![Educational Analytics Dashboard](TFI.png)
 
 ---
 
